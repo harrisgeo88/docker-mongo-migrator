@@ -1,0 +1,13 @@
+[
+  {
+    "insert": "account",
+    "documents": [
+      {
+        "username": "j.smith@yahoo.com",
+        "password": "pass123",
+        "fullName": "Jerry Smith",
+        "role": 1
+      }
+    ]
+  }
+]

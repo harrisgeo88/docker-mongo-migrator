@@ -1,0 +1,10 @@
+[
+  {
+    "dropIndexes": "account",
+    "index": "username_sort_by_asc_role"
+  },
+  {
+    "dropIndexes": "account",
+    "index": "unique_username"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "createIndexes": "account",
+    "indexes": [
+      {
+        "key": {
+          "fullName": 1,
+          "role": -1
+        },
+        "name": "username_sort_by_asc_role",
+        "background": true
+      },
+      {
+        "key": {
+          "username": 1
+        },
+        "name": "unique_username",
+        "unique": true,
+        "background": true
+      }
+    ]
+  }
+]

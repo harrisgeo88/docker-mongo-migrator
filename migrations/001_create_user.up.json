@@ -1,0 +1,12 @@
+[
+  {
+    "createUser": "testUser",
+    "pwd": "somePass",
+    "roles": [
+      {
+        "role": "readWrite",
+        "db": "test"
+      }
+    ]
+  }
+]
